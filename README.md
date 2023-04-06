@@ -30,7 +30,7 @@ To view the blog posts page, open the `index.html` file in your web browser.
 
 ## Credits
 
-This project was created by [Momen Qudaih](https://github.com/momenqudaih) & [Khaled toha](https://github.com/KhaledToha) and is licensed under the [MIT License](LICENSE).
+This project was created by  [Khaled toha](https://github.com/KhaledToha) &  [Momen Qudaih](https://github.com/momenqudaih) and is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
