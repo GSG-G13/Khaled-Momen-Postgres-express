@@ -34,4 +34,4 @@ This project was created by [Momen Qudaih](https://github.com/momenqudaih) & [Kh
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me at [qudmomen@gmail.com](mailto:qudmomen@gmail.com).
+If you have any questions or feedback, feel free to contact me at [khaled.f.toha@gmail.com, qudmomen@gmail.com](mailto:qudmomen@gmail.com).
