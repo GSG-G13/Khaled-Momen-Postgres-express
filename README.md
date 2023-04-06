@@ -12,9 +12,9 @@ You can see a live demo of this project [here](https://momen-khaled-blog.onrende
 
 ## Installation
 
-You can download or clone the source code from this repository:
+You can visit our website at:
 
-git clone https://github.com/GSG-G13/Khaled-Momen-Postgres-express.git
+(https://blogposts-vam7.onrender.com)
 
 ## Usage
 
