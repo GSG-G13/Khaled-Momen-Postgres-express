@@ -5,6 +5,7 @@ DROP TABLE IF EXISTS users, posts;
 CREATE TABLE users (
     id SERIAL PRIMARY KEY ,
     name VARCHAR(20) NOT NULL ,
+    
     email VARCHAR(60) NOT NULL,
     img_url VARCHAR(255) 
 );

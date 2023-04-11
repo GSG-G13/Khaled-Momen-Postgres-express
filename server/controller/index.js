@@ -14,6 +14,8 @@ router.post("/users", users.addUser);
 
 router.put("/users", users.updateUserQuery);
 
+
+
 router.delete("/users/:id", users.deleteUserController);
 
 router.post('/posts', posts.addPostFunc)

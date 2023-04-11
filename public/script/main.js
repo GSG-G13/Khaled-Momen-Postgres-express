@@ -115,6 +115,7 @@ function createUserRow(user) {
           avatarInput: updateImg.value,
         }),
       }).then(window.location.reload());
+      
     });
   });
 

@@ -11,6 +11,7 @@ exports.getUsers = (req, res) => {
       res.json(result.rows);
     })
     .catch((err) => res.status(500).send("Internal Server Error"));
+    
 };
 
 exports.addUser = (req, res) => {

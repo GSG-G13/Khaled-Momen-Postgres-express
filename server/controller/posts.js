@@ -12,6 +12,7 @@ exports.addPostFunc = (req,res) => {
     addPost(req.body)
     .then((data) => {
         res.send(data.rows.json())
+        
       })
       .catch((err) => res.status(500).send(err));
 }
