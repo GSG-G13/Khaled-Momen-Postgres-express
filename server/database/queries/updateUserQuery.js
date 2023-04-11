@@ -1,3 +1,5 @@
+
+
 const { pool } = require("../config/connection");
 
 const updateUserQuery = ({ id, name, email, avatarInput }) => {

@@ -1,3 +1,5 @@
+
+
 const { pool } = require('../config/connection')
 
 const addPost = ({ id,title, img_url, date }) =>{
