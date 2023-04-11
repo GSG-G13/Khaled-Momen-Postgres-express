@@ -37,7 +37,7 @@ const renderBlogPost = (post)=>{
   
     const postDateP = document.createElement("p");
     postDateP.className = "post-date";
-    postDateP.textContent = post.post_date;
+    postDateP.textContent = post.post_date.splice('T')[0];
     postOwnerDiv.appendChild(postDateP);
   
     postDiv.appendChild(postOwnerDiv);

@@ -1,10 +1,10 @@
-const pool = require("../server/database/config/connection.js");
+const { pool } = require("../server/database/config/connection.js");
 const { dbBuild } = require("../server/database/config/build");
 const { getAllUsres } = require("../server/database/queries/getAllUsers.js");
 const { addUser } = require("../server/database/queries/addUser.js");
 
-// beforeEach(() => dbBuild());
-// afterAll(() => pool.end());
+beforeEach(() => dbBuild());
+afterEach(() => pool.end());
 
 test("jest is working", () => {
   expect(1).toBe(1);

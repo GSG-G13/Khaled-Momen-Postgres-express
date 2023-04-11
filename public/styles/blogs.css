@@ -13,7 +13,7 @@ form {
 }
 body{
   min-height: 100vh;
-  
+  padding: 0 150px
 }
 
 /* Header */
@@ -85,8 +85,8 @@ main {
 
 .blog-post .user-avatar{
   border-radius: 50%;
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 50px;
+  max-height: 50px;
 
 }
 
